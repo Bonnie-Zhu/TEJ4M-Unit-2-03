@@ -1,0 +1,5 @@
+00000001 @ NOP, used as a variable holder
+00010000 @ LDA, takes the 0000 memory address and loads it into register A
+00100001 @ Adds register A with 0001
+11100000 @ OUT
+11110000 @ HLT
